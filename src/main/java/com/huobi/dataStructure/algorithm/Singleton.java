@@ -1,4 +1,4 @@
-package com.huobi.dataStructure;
+package com.huobi.dataStructure.algorithm;
 
 /**
  * @author wanyi

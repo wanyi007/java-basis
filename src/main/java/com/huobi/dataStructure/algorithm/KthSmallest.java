@@ -1,7 +1,6 @@
-package com.huobi.dataStructure;
+package com.huobi.dataStructure.algorithm;
 
 
-import scala.collection.concurrent.TNode;
 
 import java.util.Stack;
 

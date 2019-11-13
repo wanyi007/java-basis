@@ -2,17 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05efa749-dd4e-487a-bfdd-8ffacc5485dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/BinaryTree" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/TreeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/DataItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Tree234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Tree234App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/recursion/ArraySh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/recursion/ShellSortApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Tree234" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/ArrayMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/ArrayMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/BubbleSortApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/BubbleSortApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/DuplicateRemoval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/DuplicateRemoval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/Hanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/KthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/KthSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/MergeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/MergeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/PascalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/PascalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/ReversalQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/ReversalQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/ArrayMultiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/BubbleSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/DuplicateRemoval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/Hanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/KthSmallest$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/KthSmallest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/MergeArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/PascalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/ReversalQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/Singleton.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,121 +53,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/BinaryTree">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/Tree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3638">
-              <caret line="214" column="5" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/TreeApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="93" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/DataItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="48" lean-forward="true" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-              <folding>
-                <element signature="e#868#869#0" expanded="true" />
-                <element signature="e#910#911#0" expanded="true" />
-                <element signature="e#941#942#0" expanded="true" />
-                <element signature="e#969#970#0" expanded="true" />
-                <element signature="e#1000#1001#0" expanded="true" />
-                <element signature="e#1055#1056#0" expanded="true" />
-                <element signature="e#1087#1088#0" expanded="true" />
-                <element signature="e#1118#1119#0" expanded="true" />
-                <element signature="e#1159#1160#0" expanded="true" />
-                <element signature="e#1197#1198#0" expanded="true" />
-                <element signature="e#1228#1229#0" expanded="true" />
-                <element signature="e#1252#1253#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Tree234.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="698">
-              <caret line="102" selection-start-line="102" selection-end-line="102" />
-              <folding>
-                <element signature="e#2408#2409#0" expanded="true" />
-                <element signature="e#2426#2427#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Tree234App.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/ClimbStairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/recursion/ShellSortApp.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/SelectSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            <state relative-caret-position="170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/recursion/MergeSortApp.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/BubbleSortApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+            <state relative-caret-position="187">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/DuplicateRemoval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/Hanoi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/KthSmallest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/MergeArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/PascalTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/ReversalQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -180,19 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/huobi/designPatterns/strategyMode/Context.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huobi/designPatterns/strategyMode/StrategyMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/link/Link.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/hive-udf/src/main/java/hive/udf/Pair.java" />
-        <option value="$PROJECT_DIR$/hive-udf/src/main/java/hive/udf/GroupUADF.java" />
-        <option value="$PROJECT_DIR$/hive-udf/src/main/resources/hiveJDBC.properties" />
-        <option value="$PROJECT_DIR$/hive-udf/src/main/java/hive/udf/hiveJDBC.java" />
-        <option value="$PROJECT_DIR$/hive-udf/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/link/LinkListApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/link/LinkA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/link/firstLastList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/link/FirstLastList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/link/FirstLastLink.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/link/FirstLastApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/link/LinkStark.java" />
@@ -231,6 +201,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Tree234.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Tree234App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Tree234" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/ArrayMultiplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/BubbleSortApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/DuplicateRemoval.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/Hanoi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/KthSmallest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/KthSmallest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/MergeArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/PascalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/ReversalQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/SelectSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/ClimbStairs.java" />
       </list>
     </option>
   </component>
@@ -310,18 +293,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="huobi" type="462c0819:PsiDirectoryNode" />
               <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="binaryTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flink_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flink_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huobi" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="binaryTree" type="462c0819:PsiDirectoryNode" />
-              <item name="tree234" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -333,7 +305,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573573597709" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573624279989" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -352,7 +324,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tree234App">
+  <component name="RunManager" selected="Application.ClimbStairs">
+    <configuration name="ClimbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huobi.dataStructure.algorithm.ClimbStairs" />
+      <module name="java-basis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huobi.dataStructure.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergeSortApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.huobi.dataStructure.recursion.MergeSortApp" />
       <module name="java-basis" />
@@ -368,19 +353,6 @@
     </configuration>
     <configuration name="ShellSortApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.huobi.dataStructure.recursion.ShellSortApp" />
-      <module name="java-basis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.huobi.dataStructure.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TowersApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huobi.dataStructure.recursion.TowersApp" />
       <module name="java-basis" />
       <extension name="coverage">
         <pattern>
@@ -420,11 +392,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClimbStairs" />
         <item itemvalue="Application.Tree234App" />
         <item itemvalue="Application.TreeApp" />
         <item itemvalue="Application.ShellSortApp" />
         <item itemvalue="Application.MergeSortApp" />
-        <item itemvalue="Application.TowersApp" />
       </list>
     </recent_temporary>
   </component>
@@ -478,15 +450,16 @@
       <workItem from="1572242121368" duration="2735000" />
       <workItem from="1572448784629" duration="326000" />
       <workItem from="1573050820967" duration="7552000" />
-      <workItem from="1573538046250" duration="6414000" />
+      <workItem from="1573538046250" duration="8113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106702000" />
+    <option name="totallyTimeSpent" value="108401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21173105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -530,44 +503,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/link/LinkA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/link/SortedArrList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/queue/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/link/SortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
-          <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/link/SortedListApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -706,52 +641,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hive-udf/src/main/java/hive/udf/Pair.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/recursion/recFind.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/BubbleSortApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/PascalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-protobuf_2.12/2.4.20/akka-protobuf_2.12-2.4.20.jar!/akka/protobuf/BoundedByteString.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/ReversalQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/DuplicateRemoval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -773,20 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/Hanoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/KthSmallest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/recursion/TriangleApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
@@ -794,13 +673,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/ArrayMultiplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -833,13 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/BinaryTree">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -898,7 +763,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
-          <caret line="40" column="48" lean-forward="true" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
           <folding>
             <element signature="e#868#869#0" expanded="true" />
             <element signature="e#910#911#0" expanded="true" />
@@ -926,13 +791,107 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Tree234.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/BinaryTree">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Tree234App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        <state relative-caret-position="578">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/binaryTree/tree234/Tree234">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/ArrayMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/BubbleSortApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/DuplicateRemoval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/Hanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/KthSmallest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/MergeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/PascalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/ReversalQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/dataStructure/algorithm/ClimbStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
         </state>
       </provider>
     </entry>
