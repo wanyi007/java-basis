@@ -93,6 +93,19 @@
             <version>1.6.1</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.dingtalk</groupId>
+            <artifactId>com-dingtalk-api</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/commons-logging/commons-logging -->
+        <dependency>
+            <groupId>commons-logging</groupId>
+            <artifactId>commons-logging</artifactId>
+            <version>1.2</version>
+        </dependency>
+
 
     </dependencies>
 
