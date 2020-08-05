@@ -1,4 +1,4 @@
-package com.huobi.leetcode;
+package com.huobi.leetcode.medium;
 
 import java.util.HashSet;
 import java.util.Set;

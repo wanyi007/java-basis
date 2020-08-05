@@ -1,4 +1,4 @@
-package com.huobi.leetcode;
+package com.huobi.leetcode.medium;
 
 /**
  * @author wanyi
