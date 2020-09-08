@@ -68,6 +68,9 @@ public class sinkLocalTest {
 
         Table sqlQuery = tabEnv.sqlQuery(query);
 
+        //输出执行计划
+        System.out.println("explain：++"+sqlQuery.explain());
+
         DataStream<Tuple2<Boolean, Row>> tuple2DataStream = tabEnv.toRetractStream(sqlQuery, Row.class);
         //过滤输出数据
         tuple2DataStream.filter(new FilterFunction<Tuple2<Boolean, Row>>() {
