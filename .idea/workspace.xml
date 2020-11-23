@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05efa749-dd4e-487a-bfdd-8ffacc5485dd" name="Default Changelist" comment="" />
+    <list default="true" id="05efa749-dd4e-487a-bfdd-8ffacc5485dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/hive-udf/target/" />
@@ -316,7 +318,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606134863392" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606135296143" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -704,12 +706,12 @@
       <workItem from="1605162830177" duration="240000" />
       <workItem from="1605605058040" duration="2398000" />
       <workItem from="1605872086126" duration="997000" />
-      <workItem from="1606131711441" duration="2043000" />
+      <workItem from="1606131711441" duration="2283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224263000" />
+    <option name="totallyTimeSpent" value="224503000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
