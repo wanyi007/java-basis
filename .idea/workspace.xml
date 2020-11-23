@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05efa749-dd4e-487a-bfdd-8ffacc5485dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的最大深度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="05efa749-dd4e-487a-bfdd-8ffacc5485dd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/hive-udf/target/" />
@@ -319,7 +316,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606134192513" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606134863392" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -707,12 +704,12 @@
       <workItem from="1605162830177" duration="240000" />
       <workItem from="1605605058040" duration="2398000" />
       <workItem from="1605872086126" duration="997000" />
-      <workItem from="1606131711441" duration="1809000" />
+      <workItem from="1606131711441" duration="2043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224029000" />
+    <option name="totallyTimeSpent" value="224263000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -725,7 +722,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.23247497" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.2546495" />
