@@ -23,9 +23,11 @@ public class 平衡二叉树 {
         if (root == null){
             return true;
         }
+        //判断是否为完全二叉树
         return Math.abs(depth(root.left)-depth(root.right))<=1 && isBalanced(root.right) && isBalanced(root.right);
     }
 
+    //采取自顶而下的方式遍历树
     public int depth(TreeNode root){
         if (root == null ){
             return 0;
