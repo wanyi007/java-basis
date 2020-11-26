@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05efa749-dd4e-487a-bfdd-8ffacc5485dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/将有序数组转换成二叉搜索树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/平衡二叉树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,15 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/合并两个有序的数组.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="34" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/utils/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/将有序数组转换成二叉搜索树.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
@@ -108,21 +99,34 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/平衡二叉树.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="25" column="115" selection-start-line="25" selection-start-column="115" selection-end-line="25" selection-end-column="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="1181" column="22" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
+              <folding>
+                <element signature="e#46227#46228#0" expanded="true" />
+                <element signature="e#46266#46267#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/utils/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -166,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/整数反转.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/字符串转换整数.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/回文数.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/test.py" />
@@ -217,6 +220,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的最大深度.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的层次遍历2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/将有序数组转换成二叉搜索树.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/平衡二叉树.java" />
       </list>
     </option>
   </component>
@@ -313,7 +317,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606311886593" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606359956248" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -701,12 +705,12 @@
       <workItem from="1605162830177" duration="240000" />
       <workItem from="1605605058040" duration="2398000" />
       <workItem from="1605872086126" duration="997000" />
-      <workItem from="1606131711441" duration="5474000" />
+      <workItem from="1606131711441" duration="6769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227694000" />
+    <option name="totallyTimeSpent" value="228989000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -765,20 +769,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/streaming/function/SumFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java-bridge_2.11/1.11.1/flink-table-api-java-bridge_2.11-1.11.1.pom">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1142,6 +1132,24 @@
             <element signature="e#698#699#0" expanded="true" />
             <element signature="e#723#724#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="1181" column="22" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
+          <folding>
+            <element signature="e#46227#46228#0" expanded="true" />
+            <element signature="e#46266#46267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/平衡二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="25" column="115" selection-start-line="25" selection-start-column="115" selection-end-line="25" selection-end-column="115" />
         </state>
       </provider>
     </entry>
