@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05efa749-dd4e-487a-bfdd-8ffacc5485dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/路径总和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/杨辉三角.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,24 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/相同的树.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/对称二叉树.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的最大深度.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,11 +90,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/路径总和.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+            <state relative-caret-position="272">
+              <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/杨辉三角.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/外观数列.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -170,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/test.py" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/python/test.py" />
         <option value="$PROJECT_DIR$/leetcode_python/leetcode/test.py" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/RegexIsMatch.java" />
@@ -221,6 +220,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/平衡二叉树.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的最小深度.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/路径总和.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/杨辉三角.java" />
       </list>
     </option>
   </component>
@@ -317,7 +317,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606390837635" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606464142655" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -345,9 +345,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LazyLoading">
+  <component name="RunManager" selected="Application.外观数列">
     <configuration name="加一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.加一" />
+      <module name="java-basis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="外观数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.外观数列" />
       <module name="java-basis" />
       <extension name="coverage">
         <pattern>
@@ -595,6 +608,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.外观数列" />
         <item itemvalue="Application.加一" />
         <item itemvalue="Application.LazyLoading" />
         <item itemvalue="Application.test" />
@@ -705,12 +719,12 @@
       <workItem from="1605162830177" duration="240000" />
       <workItem from="1605605058040" duration="2398000" />
       <workItem from="1605872086126" duration="997000" />
-      <workItem from="1606131711441" duration="9026000" />
+      <workItem from="1606131711441" duration="10379000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231246000" />
+    <option name="totallyTimeSpent" value="232599000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -725,7 +739,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.19170243" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.19170243" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.2546495" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -734,12 +748,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.2546495" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74177396" weight="0.29277107" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.74177396" visible="true" weight="0.29156625" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33012047" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33012047" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.25822604" side_tool="true" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -769,26 +783,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/streaming/StreaingWindowWatermark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.6.1/flink-streaming-java_2.11-1.6.1-sources.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8942">
-          <caret line="639" column="16" selection-start-line="639" selection-start-column="16" selection-end-line="639" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/designPatterns/strategyMode/ConcreteStrategyC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1152,8 +1146,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/路径总和.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        <state relative-caret-position="272">
+          <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/杨辉三角.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/外观数列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
         </state>
       </provider>
     </entry>
