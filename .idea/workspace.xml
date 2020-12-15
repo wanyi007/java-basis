@@ -2,8 +2,194 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05efa749-dd4e-487a-bfdd-8ffacc5485dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/杨辉三角.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_python/leetcode/爬虫/GetData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_python/leetcode/爬虫/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/买卖股票的最佳时机II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/旋转数组.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/algorithm/ArrayMultiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/algorithm/BubbleSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/algorithm/ClimbStairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/algorithm/DuplicateRemoval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/algorithm/Hanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/algorithm/KthSmallest$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/algorithm/KthSmallest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/algorithm/MergeArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/algorithm/PascalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/algorithm/ReversalQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/algorithm/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/algorithm/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/binaryTree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/binaryTree/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/binaryTree/TreeApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/binaryTree/tree234/DataItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/binaryTree/tree234/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/binaryTree/tree234/Tree234.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/binaryTree/tree234/Tree234App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/graph/DFSApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/graph/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/graph/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/graph/GraphA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/graph/MSTWApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/graph/PriorityQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/graph/StackX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/graph/Vertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/hashTable/DataItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/hashTable/HashChainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/hashTable/HashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/hashTable/HashTableA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/hashTable/HashTableApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/hashTable/Link.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/hashTable/SortedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/heap/Heap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/heap/HeapApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/heap/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/DoublyLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/DoublyLinkedApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/DoublyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/FirstLastApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/FirstLastLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/Link.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/LinkA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/LinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/LinkListApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/LinkQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/LinkQueueApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/LinkStark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/LinkStarkApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/SortedArrList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/SortedArrListApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/SortedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/SortedListApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/iterator/InteratorApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/iterator/Link.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/iterator/LinkIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/link/iterator/LinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/queue/PriorityQuApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/queue/PriorityQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/queue/QueueApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/recursion/AnagramApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/recursion/ArraySh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/recursion/DArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/recursion/MergeSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/recursion/ShellSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/recursion/TowersApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/recursion/TriangleApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/recursion/triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/stack/BracketChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/stack/BracketsApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/stack/StackApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/stack/StackChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/dataStructure/stack/StackX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/AbstractFactoryMode/V1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/AbstractFactoryMode/V1/SqlserverUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/AbstractFactoryMode/V1/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/BuilderMode/PersonBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/BuilderMode/PersonDirector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/DecoratorMode/BigTrouser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/DecoratorMode/BigTrouser_v2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/DecoratorMode/Finery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/DecoratorMode/Finery_v2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/DecoratorMode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/DecoratorMode/Main_v1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/DecoratorMode/Main_v2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/DecoratorMode/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/DecoratorMode/Person_v1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/DecoratorMode/Person_v2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/DecoratorMode/TShirts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/DecoratorMode/TShirts_v2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/FacadeMode/Facade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/FacadeMode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/FacadeMode/SubSystemFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/FacadeMode/SubSystemOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/FacadeMode/SubSystemThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/FacadeMode/SubSystemTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/ObserverMode/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/factoryMode/OperationAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/factoryMode/OperationDiv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/factoryMode/OperationFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/factoryMode/OperationMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/factoryMode/OperationMul.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/factoryMode/OperationSub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/factoryMode/Operation_v1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/prototypeMode/ConcretePrototypel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/prototypeMode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/prototypeMode/Prototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/strategyMode/ConcerteStrategyA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/strategyMode/ConcreteStrategyB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/strategyMode/ConcreteStrategyC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/strategyMode/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/strategyMode/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/designPatterns/strategyMode/StrategyMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/interFace/ArrayInOb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/interFace/HighArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/interFace/HighArrayApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/interFace/IChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/interFace/ObjectSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/interFace/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/CodeInterviewGuide/stack/MyStack1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/CodeInterviewGuide/stack/PetEnterQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/CodeInterviewGuide/stack/TwoStacksQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/CodeInterviewGuide/stack/utils/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/CodeInterviewGuide/stack/utils/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/CodeInterviewGuide/stack/utils/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/CodeInterviewGuide/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/medium/LengthOfLongestSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/medium/Z字形变换.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/medium/字符串转换整数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/medium/最长回文子串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/StrStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/x的平方根.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/二叉树的层次遍历2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/二叉树的最大深度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/二叉树的最小深度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/二进制求和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/删除排序数组中的重复项.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/删除排序链表中的重复元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/加一.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/合并两个有序的数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/合并两个有序的链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/回文数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/外观数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/对称二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/将有序数组转换成二叉搜索树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/平衡二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/搜索插入位置.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/整数反转.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/最后一个单词的长度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/最大子序和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/最长公共前缀.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/有效的括号.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/杨辉三角.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/爬楼梯.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/相同的树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/移除元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/罗马数字转整数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/simple/路径总和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/utils/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/leetcode/utils/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/StreaingWindowWatermark$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/StreaingWindowWatermark$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/StreaingWindowWatermark$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/StreaingWindowWatermark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/StreamingFromCollection$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/StreamingFromCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/flink/VhctypeRt$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/flink/VhctypeRt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/flink/test/sinkLocalTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/flink/test/sinkLocalTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/flink/test/sinkLocalTest$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/flink/test/sinkLocalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/function/SumFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/streaming/utils/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/test/LazyLoading$P.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/test/LazyLoading$x.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/test/LazyLoading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/test/Str.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huobi/test/dingdingTalk.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,6 +204,7 @@
     <SUITE FILE_PATH="coverage/flink_test$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1595900859898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_python/leetcode" />
     <SUITE FILE_PATH="coverage/flink_test$.coverage" NAME="有效的括号 Coverage Results" MODIFIED="1596944197882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_python/leetcode/simply" />
     <SUITE FILE_PATH="coverage/flink_test$RomanToInt.coverage" NAME="RomanToInt Coverage Results" MODIFIED="1596641758993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_python/leetcode/simply" />
+    <SUITE FILE_PATH="coverage/flink_test$GetData.coverage" NAME="GetData Coverage Results" MODIFIED="1607871962235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_python/leetcode/爬虫" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -38,104 +225,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的最大深度.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的层次遍历2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/将有序数组转换成二叉搜索树.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-              <folding>
-                <element signature="e#698#699#0" expanded="true" />
-                <element signature="e#723#724#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/平衡二叉树.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的最小深度.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/路径总和.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/杨辉三角.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/外观数列.java">
+        <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode/爬虫/GetData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+            <state relative-caret-position="102">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+        <entry file="file:///Library/Python/2.7/site-packages/requests/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="1181" column="22" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
-              <folding>
-                <element signature="e#46227#46228#0" expanded="true" />
-                <element signature="e#46266#46267#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1071">
+              <caret line="63" column="4" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java/1.11.1/flink-table-api-java-1.11.1.jar!/org/apache/flink/table/api/EnvironmentSettings.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java/1.11.1/flink-table-api-java-1.11.1.jar!/org/apache/flink/table/api/Expressions.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-java/1.11.1/flink-java-1.11.1.jar!/org/apache/flink/api/java/DataSet.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.11.1/flink-core-1.11.1-sources.jar!/org/apache/flink/core/io/IOReadableWritable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-scala_2.11/1.11.1/flink-table-api-scala_2.11-1.11.1.jar!/org/apache/flink/table/api/ImplicitExpressionConversions.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-scala_2.11/1.11.1/flink-table-api-scala_2.11-1.11.1.jar!/org/apache/flink/table/api/ImplicitExpressionOperations.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java-bridge_2.11/1.11.1/flink-table-api-java-bridge_2.11-1.11.1-sources.jar!/org/apache/flink/table/factories/BatchTableSourceFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java-bridge_2.11/1.11.1/flink-table-api-java-bridge_2.11-1.11.1-sources.jar!/org/apache/flink/table/sinks/UpsertStreamTableSink.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -146,8 +321,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Python Script" />
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -170,9 +345,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/python/test.py" />
-        <option value="$PROJECT_DIR$/leetcode_python/leetcode/test.py" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/RegexIsMatch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/medium/LengthOfLongestSubstring.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/罗马数字转整数.java" />
         <option value="$PROJECT_DIR$/leetcode_python/leetcode/simply/romanToInt.py" />
@@ -194,7 +366,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/test/Str.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/streaming/function/SumFunction.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/streaming/flink/VhctypeRt.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/streaming/flink/test/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/streaming/flink/test/sinkLocalTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/CodeInterviewGuide/stack/MyStack1.java" />
@@ -221,6 +392,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的最小深度.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/路径总和.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/杨辉三角.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/买卖股票的最佳时机II.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/旋转数组.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode_python/leetcode/爬虫/GetData.py" />
       </list>
     </option>
   </component>
@@ -254,7 +429,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,59 +440,36 @@
             <path>
               <item name="flink_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="flink_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flink_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="flink_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flink_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flink_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flink_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flink_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huobi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flink_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flink_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huobi" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flink_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="flink_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huobi" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="simple" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606464142655" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607872087103" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -345,7 +497,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.外观数列">
+  <component name="RunManager" selected="Python.GetData">
     <configuration name="加一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.加一" />
       <module name="java-basis" />
@@ -359,8 +511,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="外观数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.外观数列" />
+    <configuration name="买卖股票的最佳时机II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.买卖股票的最佳时机II" />
       <module name="java-basis" />
       <extension name="coverage">
         <pattern>
@@ -378,97 +530,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.huobi.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符串转换整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.字符串转换整数" />
-      <module name="java-basis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.huobi.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="搜索插入位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.搜索插入位置" />
-      <module name="java-basis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="外观数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.外观数列" />
-      <module name="java-basis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="有效的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.有效的括号" />
-      <module name="java-basis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.爬楼梯" />
-      <module name="java-basis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="删除排序数组中的重复项" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.删除排序数组中的重复项" />
-      <module name="java-basis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.最长公共前缀" />
-      <module name="java-basis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -580,12 +641,103 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sinkLocalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huobi.streaming.flink.test.sinkLocalTest" />
+    <configuration name="外观数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.外观数列" />
       <module name="java-basis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.huobi.streaming.flink.test.*" />
+          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串转换整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.字符串转换整数" />
+      <module name="java-basis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huobi.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="搜索插入位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.搜索插入位置" />
+      <module name="java-basis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="外观数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.外观数列" />
+      <module name="java-basis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="有效的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.有效的括号" />
+      <module name="java-basis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.爬楼梯" />
+      <module name="java-basis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="删除排序数组中的重复项" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.删除排序数组中的重复项" />
+      <module name="java-basis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huobi.leetcode.simple.最长公共前缀" />
+      <module name="java-basis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huobi.leetcode.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -606,13 +758,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GetData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_python/leetcode/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_python/leetcode/爬虫/GetData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.外观数列" />
+        <item itemvalue="Python.GetData" />
+        <item itemvalue="Application.买卖股票的最佳时机II" />
         <item itemvalue="Application.加一" />
         <item itemvalue="Application.LazyLoading" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.sinkLocalTest" />
       </list>
     </recent_temporary>
   </component>
@@ -719,12 +893,18 @@
       <workItem from="1605162830177" duration="240000" />
       <workItem from="1605605058040" duration="2398000" />
       <workItem from="1605872086126" duration="997000" />
-      <workItem from="1606131711441" duration="10379000" />
+      <workItem from="1606131711441" duration="13430000" />
+      <workItem from="1607416188215" duration="320000" />
+      <workItem from="1607416514714" duration="885000" />
+      <workItem from="1607651238135" duration="1073000" />
+      <workItem from="1607870417565" duration="1352000" />
+      <workItem from="1607930177921" duration="116000" />
+      <workItem from="1607946157269" duration="210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232599000" />
+    <option name="totallyTimeSpent" value="239606000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -739,7 +919,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.19170243" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.25107297" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.2546495" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -748,14 +928,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.2546495" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.74177396" visible="true" weight="0.29156625" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74177396" weight="0.28915662" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33012047" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6587983" weight="0.33012047" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.25822604" side_tool="true" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.34120172" side_tool="true" weight="0.33012047" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
@@ -783,163 +963,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/designPatterns/strategyMode/ConcreteStrategyC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/test/Str.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/streaming/utils/FileUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.11.1/flink-streaming-java_2.11-1.11.1.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1672">
-          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/streaming/flink/VhctypeRt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/streaming/flink/test/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/streaming/flink/test/sinkLocalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.11.1/flink-streaming-java_2.11-1.11.1-sources.jar!/org/apache/flink/streaming/api/datastream/DataStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13141">
-          <caret line="907" column="47" selection-start-line="907" selection-start-column="37" selection-end-line="907" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.4.2/flink-table_2.11-1.4.2-sources.jar!/org/apache/flink/table/typeutils/RowIntervalTypeInfo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java-bridge_2.11/1.11.1/flink-table-api-java-bridge_2.11-1.11.1-sources.jar!/org/apache/flink/table/api/bridge/java/StreamTableEnvironment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4573">
-          <caret line="302" column="14" selection-start-line="302" selection-start-column="14" selection-end-line="302" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java-bridge_2.11/1.11.1/flink-table-api-java-bridge_2.11-1.11.1.jar!/org/apache/flink/table/api/bridge/java/StreamTableEnvironment.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/CodeInterviewGuide/stack/TwoStacksQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/CodeInterviewGuide/stack/utils/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/CodeInterviewGuide/stack/utils/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/CodeInterviewGuide/stack/utils/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.11.1/flink-streaming-java_2.11-1.11.1-sources.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="123" column="13" selection-start-line="123" selection-start-column="13" selection-end-line="123" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.11.1/flink-core-1.11.1-sources.jar!/org/apache/flink/api/common/ExecutionConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3417">
-          <caret line="245" column="27" selection-start-line="245" selection-start-column="27" selection-end-line="245" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.11.1/flink-core-1.11.1.jar!/org/apache/flink/api/common/ExecutionConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="137" column="27" selection-start-line="137" selection-start-column="27" selection-end-line="137" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.11.1/flink-core-1.11.1-sources.jar!/org/apache/flink/util/Preconditions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="136" column="23" selection-start-line="136" selection-start-column="23" selection-end-line="136" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/CodeInterviewGuide/stack/PetEnterQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -947,12 +970,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/huobi/interFace/ArrayInOb.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/huobi/interFace/HighArray.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/huobi/interFace/ArrayInOb.class" />
+    <entry file="file://$PROJECT_DIR$/target/classes/com/huobi/interFace/HighArray.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/最大子序和.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -1017,13 +1036,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/删除排序数组中的重复项.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1112,9 +1124,104 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/买卖股票的最佳时机.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的最大深度.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/删除排序数组中的重复项.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/买卖股票的最佳时机II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="19" selection-start-line="30" selection-start-column="8" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/平衡二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的最小深度.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/路径总和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/杨辉三角.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/旋转数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java/1.11.1/flink-table-api-java-1.11.1.jar!/org/apache/flink/table/api/TableEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="172" column="32" selection-start-line="172" selection-start-column="32" selection-end-line="172" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java/1.11.1/flink-table-api-java-1.11.1.jar!/org/apache/flink/table/operations/QueryOperationVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.11.1/flink-core-1.11.1-sources.jar!/org/apache/flink/api/java/ClosureCleaner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java-bridge_2.11/1.11.1/flink-table-api-java-bridge_2.11-1.11.1-sources.jar!/org/apache/flink/table/api/bridge/java/StreamTableEnvironment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10302">
+          <caret line="639" column="68" selection-start-line="639" selection-start-column="68" selection-end-line="639" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/外观数列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
+        <state relative-caret-position="19057">
           <caret line="1181" column="22" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
           <folding>
             <element signature="e#46227#46228#0" expanded="true" />
@@ -1123,45 +1230,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/平衡二叉树.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java/1.11.1/flink-table-api-java-1.11.1.jar!/org/apache/flink/table/api/SqlParserException.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="204">
+          <caret line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的最大深度.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/streaming/flink/test/sinkLocalTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        <state relative-caret-position="77">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/二叉树的最小深度.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        <state relative-caret-position="408">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/路径总和.java">
+    <entry file="file://$PROJECT_DIR$/leetcode_python/leetcode/爬虫/GetData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/杨辉三角.java">
+    <entry file="file:///Library/Python/2.7/site-packages/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="1071">
+          <caret line="63" column="4" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/huobi/leetcode/simple/外观数列.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java/1.11.1/flink-table-api-java-1.11.1.jar!/org/apache/flink/table/api/EnvironmentSettings.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        <state relative-caret-position="119">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java/1.11.1/flink-table-api-java-1.11.1.jar!/org/apache/flink/table/api/Expressions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-java/1.11.1/flink-java-1.11.1.jar!/org/apache/flink/api/java/DataSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.11.1/flink-core-1.11.1-sources.jar!/org/apache/flink/core/io/IOReadableWritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-scala_2.11/1.11.1/flink-table-api-scala_2.11-1.11.1.jar!/org/apache/flink/table/api/ImplicitExpressionConversions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-scala_2.11/1.11.1/flink-table-api-scala_2.11-1.11.1.jar!/org/apache/flink/table/api/ImplicitExpressionOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java-bridge_2.11/1.11.1/flink-table-api-java-bridge_2.11-1.11.1-sources.jar!/org/apache/flink/table/factories/BatchTableSourceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-java-bridge_2.11/1.11.1/flink-table-api-java-bridge_2.11-1.11.1-sources.jar!/org/apache/flink/table/sinks/UpsertStreamTableSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
         </state>
       </provider>
     </entry>
