@@ -20,7 +20,6 @@ import org.apache.flink.table.api.Table;
 import org.apache.flink.table.api.TableEnvironment;
 import org.apache.flink.table.api.TableResult;
 import org.apache.flink.table.api.bridge.java.StreamTableEnvironment;
-import org.apache.flink.table.descriptors.Kafka;
 import org.apache.flink.types.Row;
 import scala.util.parsing.json.JSON;
 
