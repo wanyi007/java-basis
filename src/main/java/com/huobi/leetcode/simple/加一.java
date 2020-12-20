@@ -34,9 +34,11 @@ public class 加一 {
     public int[] pulsOne(int[] digits){
         for (int i = digits.length-1;i >= 0;i--){
             digits[i]++;
+            //判断是否是10
             digits[i] = digits[i]%10;
             if (digits[i] !=0){return digits;}
         }
+        //是10的话就把第一位=d1
         digits = new int[digits.length+1];
         digits[0] = 1;
         return digits;

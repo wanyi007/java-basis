@@ -25,7 +25,7 @@ public class 旋转数组 {
                 pre = temp;
                 cur = next;
                 count++;
-            }while(start != cur)  ;     // 循环暂停，回到起始位置，角落无人
+            }while(start != cur);     // 循环暂停，回到起始位置，角落无人
 
         }
     }
